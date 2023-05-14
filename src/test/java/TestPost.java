@@ -15,7 +15,7 @@ public class TestPost {
 
                         .then()
                         .statusCode(200)
-                        .body("data", equalTo("some data"))
+                        .body("data", equalTo("привет"))
         ;
     }
 }
