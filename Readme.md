@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/k1t6mbkifem6uve1?svg=true)](https://ci.appveyor.com/project/Svetlasha/homeworkapi2-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/9yblxft7792bac4a?svg=true)](https://ci.appveyor.com/project/Svetlasha/homeworkselenium)
